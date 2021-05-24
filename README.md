@@ -1,2 +1,2 @@
-# TCP-protokol-ile-Anl-k-Mesajla-ma-Uygulamas-
+# TCP-protokol-ile-Anlik Mesajlasma-Uygulamasi-
 TCP protokolünü kullanarak Python programlama diliyle anlık mesajlaşma uygulaması
